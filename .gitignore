@@ -1,0 +1,11 @@
+# Visual Studio / MSBuild artifacts
+*.sdf
+*.ncb
+*.suo
+*.user
+*.resharper.user
+ipch/
+bin/
+obj/
+Debug/
+Release/

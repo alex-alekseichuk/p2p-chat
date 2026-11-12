@@ -1,0 +1,26 @@
+Sexternet Licensing
+=================================
+
+Except where otherwise noted, all of the documentation and software included is copyrighted by Spaceblue LLC.
+
+Copyright (C) 2000-2003 Spaceblue LLC. All rights reserved.
+
+Venis IX Software License Agreement version 1.1
+
+1. Venis IX is free for personal and non-profit use with no technical support.
+2. Venis IX paid license is required for commercial use.  You may use it freely for 30 days to evaluate it.  If during, or at the end of, the evaluation period you decide that you would like to continue using Venis IX, you must register your copy. Your single-user paid license will license you to use your copy of Venis IX, and will support work on future versions, new features, and bug fixes.
+3. Venis IX paid license is available for personal and non-profit use with technical support.  Your single-user paid license will license you to use your copy of Venis IX, and will support work on future versions, new features, and bug fixes.
+4. Venis IX paid license entitles you to direct technical support with the author by E-mail.
+5. The origin of this software must not be misrepresented; you must not claim that you wrote the original software.
+6. You may not decompile, disassemble, or create derivative works based upon the software. You may not modify, adapt, translate, or create derivative works based upon the written documentation.
+7. If you would like to distribute Venis IX packaged within a product such as a book, please email angelo[at]spaceblue.com  for written authorization.
+8. This software is provided "as-is," without any express or implied warranty.  In no event shall the author be held liable for any damages arising from the use of this software.
+9. Computer professionals are obligated to notify the author Spaceblue LLC of software bugs.
+10. No refunds are issued after a paid license has been issued.
+
+
+Information:
+Web: http://www.SexterNet.com
+
+
+Date: 01/01/2008

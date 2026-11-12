@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="net">
+      <UniqueIdentifier>{7ec022f1-4cde-4168-af75-4d4969529ad5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="expat">
+      <UniqueIdentifier>{92d15bf0-9ac5-491f-a7bf-17bb6b31eecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{c82afb92-b689-4b8e-b313-24b45d2a1854}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="openssl">
+      <UniqueIdentifier>{37a32311-9fd7-4fba-bd2e-f4941491dfa3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="net\connection.cc">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="net\server.cc">
+      <Filter>net</Filter>
+    </ClCompile>
+    <ClCompile Include="expat\expatcc.cc">
+      <Filter>expat</Filter>
+    </ClCompile>
+    <ClCompile Include="openssl\openssl.cc">
+      <Filter>openssl</Filter>
+    </ClCompile>
+    <ClCompile Include="db.cc" />
+    <ClCompile Include="main.cc" />
+    <ClCompile Include="online_connection.cc" />
+    <ClCompile Include="online_server.cc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="net\connection.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\packet.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="net\server.h">
+      <Filter>net</Filter>
+    </ClInclude>
+    <ClInclude Include="expat\expatcc.h">
+      <Filter>expat</Filter>
+    </ClInclude>
+    <ClInclude Include="common\logger.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="openssl\openssl.h">
+      <Filter>openssl</Filter>
+    </ClInclude>
+    <ClInclude Include="db.h" />
+    <ClInclude Include="online_connection.h" />
+    <ClInclude Include="online_server.h" />
+  </ItemGroup>
+</Project>
